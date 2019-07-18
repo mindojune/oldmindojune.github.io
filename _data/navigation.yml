@@ -1,17 +1,17 @@
 header:
   - titles:
-      en:       Archive
-    url:        /archive.html
+      en      : Archive
+    url: /archive.html
   - titles:
       en:       About Me
     url:        /about_me.html
   - titles:
-     en:       Portfolio
+      en:       Portfolio
     url:        /portfolio.html
   - titles:
-     en:       Curriculum Vitae
+      en:       Curriculum Vitae
     url:        /cv.pdf
-   - titles:
-     en:       Test
+  - titles:
+      en:       Test
     url:        /about.md
 
