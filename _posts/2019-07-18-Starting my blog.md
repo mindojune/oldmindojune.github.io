@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Rebooting my blog
+title: Starting my blog
 comments: true
 tags: start
 categories: announcement
