@@ -3,8 +3,8 @@ header:
       en:       Archive
     url:        /archive.html
   - titles:
-      en:       About Me
-    url:        /about_me.html
+      en:       About
+    url:        /about.html
   - titles:
       en:       Portfolio
     url:        /portfolio.html
