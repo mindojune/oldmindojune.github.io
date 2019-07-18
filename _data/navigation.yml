@@ -11,4 +11,7 @@ header:
   - titles:
      en:       Curriculum Vitae
     url:        /cv.pdf
+   - titles:
+     en:       Test
+    url:        /about.md
 
