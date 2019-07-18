@@ -1,8 +1,3 @@
-
-
-## Dojune's blog
-
-## email: wordandflesh@gmail.com / dojmin@umich.edu
-
-## Theme Used: [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
-
+### Hello, I am Do June Min, currently an MS student in University of Michigan studying Computer Science. 
+### My interests include:
+- Contact me at : <a href="dojmin@umich.edu">dojmin@umich.edu</a></h2>
