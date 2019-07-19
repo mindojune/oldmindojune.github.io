@@ -10,6 +10,8 @@ Here is a list containing some of my work:
 
 - [Using NEAT + ES to Play Games](https://github.com/mindojune/mindojune.github.io/blob/master/_data/cs81.pdf)
 
+- add work with yang yi
+
 
 #### Information Visualization
 - [#MAGA and #MeToo: A Tale of Two Hashtags, a Twitter Visualization (Work with Yea-Ree Chang and Kai Cui)](https://cyearee.github.io/twitter_visualization/index.html)
