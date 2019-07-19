@@ -8,7 +8,7 @@ categories: announcement
 
 Hi, I am Do June. 
 
-This is the first post for my blog, which will feature articles presenting and explaining some for the works that I did, either for school or independently.
+This is the first post for my blog, which will feature articles presenting and explaining some of the works that I did, either for school or independently.
 
 I'm also planning to post my thoughts on the fields that I am interested in, which you can find [here](https://mindojune.github.io/about.html).
 
