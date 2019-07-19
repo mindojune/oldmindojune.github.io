@@ -6,3 +6,7 @@ title: "Portfolio"
 - [#MAGA and #MeToo: A Tale of Two Hashtags, a Twitter Visualization (Work with Yea-Ree Chang and Kai Cui)](https://cyearee.github.io/twitter_visualization/index.html)
 
 - [Finite State Transducer for Korean in Apertium](https://github.com/mindojune/kor-transducer)
+
+- [Insights from Attacking Interpretable Models: Style Transfer and Input Thresholding (Work with Haizhong Zheng, Junghwan Kim, and Jihun Lim)](https://github.com/mindojune/mindojune.github.io/blob/master/_data/eecs598_012_project.pdf)
+
+- [Insights from Attacking Interpretable Models: Style Transfer and Input Thresholding (Work with Haizhong Zheng, Junghwan Kim, and Jihun Lim)](https://github.com/mindojune/mindojune.github.io/blob/master/_data/eecs598_012_project.pdf)
