@@ -2,7 +2,7 @@
 title: "Portfolio"
 ---
 
-Here is a list containing some of my work:
+The following is a list containing some of my work.
 
 
 #### Artificial Intelligence / Machine Learning
