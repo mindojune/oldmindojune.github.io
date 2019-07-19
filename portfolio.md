@@ -17,6 +17,7 @@ Here is a list containing some of my work:
 - [#MAGA and #MeToo: A Tale of Two Hashtags, a Twitter Visualization (Work with Yea-Ree Chang and Kai Cui)](https://cyearee.github.io/twitter_visualization/index.html)
 
 
-#### Computational Linguistics
+#### Linguistics / Computational Linguistics
+- [Consonant-Glide Sequences and the Syllable Contact Asymmetryin Korean](https://github.com/mindojune/mindojune.github.io/blob/master/_data/ling85.pdf)
 - [Finite State Transducer for Korean in Apertium](https://github.com/mindojune/kor-transducer)
 
