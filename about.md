@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Hello, I am Do June Min, currently an MS student in University of Michigan studying Computer Science. 
+Hello, I am Do June Min, currently an MS student at the University of Michigan studying Computer Science. 
 
 Some other iterations of my first name are: Dojune, Do-june, DJ, and the Doj. 
 
