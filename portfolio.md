@@ -10,7 +10,7 @@ Here is a list containing some of my work:
 
 - [Using NEAT + ES to Play Games](https://github.com/mindojune/mindojune.github.io/blob/master/_data/cs81.pdf)
 
-- add work with yang yi
+- [A Machine Learning Approach to Predicting HIV Progression (Work with Yang Yi)](https://github.com/mindojune/mindojune.github.io/blob/master/_data/cs68.pdf)
 
 
 #### Information Visualization
