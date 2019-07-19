@@ -13,10 +13,11 @@ Here is a list containing some of my work:
 - [A Machine Learning Approach to Predicting HIV Progression (Work with Yang Yi)](https://github.com/mindojune/mindojune.github.io/blob/master/_data/cs68.pdf)
 
 
-#### Information Visualization
-- [#MAGA and #MeToo: A Tale of Two Hashtags, a Twitter Visualization (Work with Yea-Ree Chang and Kai Cui)](https://cyearee.github.io/twitter_visualization/index.html)
-
-
 #### Linguistics / Computational Linguistics
 - [Consonant-Glide Sequences and the Syllable Contact Asymmetryin Korean](https://github.com/mindojune/mindojune.github.io/blob/master/_data/ling85.pdf)
 - [Finite State Transducer for Korean in Apertium](https://github.com/mindojune/kor-transducer)
+
+
+
+#### Information Visualization
+- [#MAGA and #MeToo: A Tale of Two Hashtags, a Twitter Visualization (Work with Yea-Ree Chang and Kai Cui)](https://cyearee.github.io/twitter_visualization/index.html)
