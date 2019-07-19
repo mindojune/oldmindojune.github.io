@@ -5,7 +5,7 @@ title: "Portfolio"
 ### Here is a list containing some of my work.
 
 
-#### Artificial Intelligence Machine Learning
+#### Artificial Intelligence / Machine Learning
 - [Insights from Attacking Interpretable Models: Style Transfer and Input Thresholding (Work with Haizhong Zheng, Junghwan Kim, and Jihun Lim)](https://github.com/mindojune/mindojune.github.io/blob/master/_data/eecs598_012_project.pdf)
 
 - [Using NEAT + ES to Play Games](https://github.com/mindojune/mindojune.github.io/blob/master/_data/cs81.pdf)
