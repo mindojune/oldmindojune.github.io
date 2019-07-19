@@ -22,6 +22,9 @@ The following is a list containing some of my work.
 #### Information Visualization
 - [#MAGA and #MeToo: A Tale of Two Hashtags, a Twitter Visualization (Work with Yea-Ree Chang and Kai Cui)](https://cyearee.github.io/twitter_visualization/index.html)
 
+#### Others
+-  [Adaptive Routing for DHTs (Work with Zheyuan Ryan Shi and Yu Jian Wu)](https://github.com/mindojune/mindojune.github.io/blob/master/_data/cs87_project.pdf)
+
 <!---
 Should I include every work that's appropriate in length and quality, without considering its relevance?
 -->
