@@ -3,7 +3,7 @@ layout: article
 title: Starting my blog
 comments: true
 tags: start
-categories: announcement
+
 ---
 
 Hi, I am Do June. 
