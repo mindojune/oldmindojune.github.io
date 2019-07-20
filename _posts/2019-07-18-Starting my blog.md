@@ -2,7 +2,7 @@
 layout: article
 title: Starting my blog
 comments: true
-tags: start, intro
+tags: start intro
 
 ---
 
