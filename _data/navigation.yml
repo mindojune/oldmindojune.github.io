@@ -1,7 +1,7 @@
 header:
   - titles:
-      en:       Tags
-    url:        /tags.html
+      en:       Archive
+    url:        /archive.html
   - titles:
       en:       About
     url:        /about.html
