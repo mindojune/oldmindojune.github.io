@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Starting my blog
+title: Introduction
 comments: true
 tags: 
   - start 
